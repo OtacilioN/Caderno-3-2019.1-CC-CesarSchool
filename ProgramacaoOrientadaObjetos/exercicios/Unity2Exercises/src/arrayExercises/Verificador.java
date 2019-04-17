@@ -1,4 +1,4 @@
-package ArrayExercises;
+package arrayExercises;
 import java.util.Random;
 
 public class Verificador {
